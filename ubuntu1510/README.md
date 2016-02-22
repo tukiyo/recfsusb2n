@@ -4,7 +4,8 @@
 * http://arkouji.cocolog-nifty.com/blog/ktvfsusb2/
 * http://d.hatena.ne.jp/katauna/searchdiary?word=recfsusb2n
 
-## パッチ
+## ./ubuntu1510/
 
-* なくなっては困るので 2445882.zip を同梱
-* ubuntu 15.10 用のMakefile修正分も同梱
+* 2445882.zip (パッチ)
+* Makefile
+* 89-tuner.rules (/etc/udev/rules.d/89-tuner.rules)
