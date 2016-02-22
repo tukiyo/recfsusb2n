@@ -7,11 +7,11 @@
 ## ビルド準備
 
 ```
-sudo apt-get install -y \
+apt-get install -y \
   make gcc g++ libboost-filesystem-dev libboost-thread-dev
 ```
 
-## ./ubuntu1510/
+## ./_files/
 
 * 2445882.zip (パッチ)
 * Makefile
